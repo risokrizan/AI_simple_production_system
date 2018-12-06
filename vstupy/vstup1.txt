@@ -1,0 +1,27 @@
+Peter je rodic Jano
+Peter je rodic Viera
+Peter je rodic Maria
+manzelia Peter Eva
+muz Peter
+muz Jano
+zena Viera
+zena Maria
+zena Eva
+###
+DruhyRodic1
+@@@
+?X je rodic ?Y,manzelia ?X ?Z
+===
+pridaj ?Z je rodic ?Y
+###
+DruhyRodic2
+@@@
+?X je rodic ?Y,manzelia ?Z ?X
+===
+pridaj ?Z je rodic ?Y
+###
+Sestry
+@@@
+?X je rodic ?Y,?X je rodic ?Z,<> ?Y ?Z,zena ?Y,zena ?Z
+===
+pridaj ?Y a ?Z su sestry,sprava ?Y a ?Z su sestry

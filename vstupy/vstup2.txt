@@ -1,0 +1,42 @@
+Maria je babka Jano
+Maria je babka Viera
+Peter je rodic Jano
+Peter je rodic Viera
+manzelia Peter Eva
+manzelia Vlado Maria
+muz Vlado
+muz Peter
+muz Jano
+zena Viera
+zena Maria
+zena Eva
+###
+DruhyRodic1
+@@@
+?X je rodic ?Y,manzelia ?X ?Z
+===
+pridaj ?Z je rodic ?Y
+###
+DruhyRodic2
+@@@
+?X je rodic ?Y,manzelia ?Z ?X
+===
+pridaj ?Z je rodic ?Y
+###
+Otec
+@@@
+?X je rodic ?Y,muz ?X
+===
+pridaj ?X je otec ?Y
+###
+Mama
+@@@
+?X je rodic ?Y,zena ?X
+===
+pridaj ?X je mama ?Y
+###
+Dedko
+@@@
+?X je babka ?Y,manzelia ?Z ?X
+===
+pridaj ?Z je dedko ?Y,vymaz muz ?Z

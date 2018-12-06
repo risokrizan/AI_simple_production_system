@@ -1,0 +1,27 @@
+Peter je rodic Jano
+Peter je rodic Vlado
+manzelia Peter Eva
+Eva je rodic Jano
+Eva je rodic Vlado
+muz Peter
+muz Jano
+muz Vlado
+zena Eva
+###
+DruhyRodic1
+@@@
+?X je rodic ?Y,manzelia ?X ?Z
+===
+pridaj ?Z je rodic ?Y
+###
+DruhyRodic2
+@@@
+?X je rodic ?Y,manzelia ?Z ?X
+===
+pridaj ?Z je rodic ?Y
+###
+Otec
+@@@
+?X je rodic ?Y,muz ?X
+===
+pridaj ?X je otec ?Y
